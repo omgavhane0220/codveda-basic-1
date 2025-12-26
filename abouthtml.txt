@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About - Hotel Paradise</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Hotel Paradise</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="gallery.html">Gallery</a
+    <a href="contact.html">Contact</a>
+</nav>
+
+<section class="content">
+    <h2>About Us</h2>
+    <p>
+        Hotel Paradise is a premium hotel offering modern facilities,
+        clean rooms, and delicious food. We focus on comfort, hygiene,
+        and customer satisfaction.
+    </p>
+
+    <h3>Room Types</h3>
+    <p>
+        <b>AC Rooms:</b> Fully air-conditioned, luxury stay.<br>
+        <b>Non-AC Rooms:</b> Affordable and comfortable.
+    </p>
+
+    <h3>Dining</h3>
+    <p>
+        We offer both Veg and Non-Veg meals prepared hygienically
+        by expert chefs in a pleasant dining environment.
+    </p>
+</section>
+
+<footer>
+    <p>Hotel Paradise – Comfort Meets Taste</p>
+</footer>
+
+</body>
+</html>

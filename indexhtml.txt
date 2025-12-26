@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hotel Paradise</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+     <img src="logo.jpg" class="logo" alt="Hotel Paradise Logo">
+    <h1>Hotel Paradise</h1>
+    <p><b>Comfort in Stay, Delight in Taste</b></p>
+    <p>AC & Non-AC Rooms | Veg & Non-Veg Dining</p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<section class="hero">
+    <img src="hotel.jpg" alt="Hotel Paradise Hotel">
+    <div class="hero-text">
+        <h2>Welcome to Hotel Paradise</h2>
+        <p>Luxury Rooms & Delicious Dining</p>
+    </div>
+</section>
+
+<section class="content">
+    <h2>Why Choose Hotel Paradise?</h2>
+    <p>
+        Hotel Paradise provides comfortable AC and Non-AC rooms with
+        high-quality Veg & Non-Veg dining facilities.  
+        Ideal for families, travelers, and business guests.
+    </p>
+
+    <h3>Our Facilities</h3>
+    <ul>
+        <li>✔ AC Rooms</li>
+        <li>✔ Non-AC Rooms</li>
+        <li>✔ Swimming Pool</li>
+        <li>✔ Veg Restaurant</li>
+        <li>✔ Non-Veg Restaurant</li>
+        <li>✔ Dining Table Booking</li>
+    </ul>
+</section>
+
+<footer>
+    <p>© 2025 Hotel Paradise | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>

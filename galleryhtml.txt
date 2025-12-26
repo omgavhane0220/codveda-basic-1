@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gallery - Hotel Paradise</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="header">
+    <img src="logo.jpg" class="logo" alt="Hotel Paradise Logo">
+    <h1>Hotel Paradise</h1>
+    <p>Comfort in Stay, Delight in Taste</p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<section class="content">
+    <h2>Our Gallery</h2>
+    <p>Explore our rooms, dining facilities, food items and amenities</p>
+
+    <h3>Rooms</h3>
+    <div class="gallery">
+        <div>
+            <img src="acroom.jpg" alt="AC Room">
+            <p>AC Room</p>
+        </div>
+        <div>
+            <img src="nonacroom.jpg" alt="Non AC Room">
+            <p>Non-AC Room</p>
+        </div>
+    </div>
+
+    <h3>Swimming Pool</h3>
+    <div class="gallery">
+        <div>
+            <img src="pool.jpg" alt="Swimming Pool">
+            <p>Swimming Pool</p>
+        </div>
+    </div>
+
+    <h3>Dining Tables</h3>
+    <div class="gallery">
+        <div>
+            <img src="classicdining.jpg" alt="Classic Dining Table">
+            <p>Classic Dining Table</p>
+        </div>
+        <div>
+            <img src="premiumdining.jpg" alt="Premium Dining Table">
+            <p>Premium Dining Table</p>
+        </div>
+    </div>
+
+    <h3>Veg Food</h3>
+    <div class="gallery">
+        <div>
+            <img src="veg1.jpg" alt="Veg Food">
+            <p>Veg Special Dish</p>
+        </div>
+        <div>
+            <img src="veg2.jpg" alt="Veg Food">
+            <p>Veg Combo Meal</p>
+        </div>
+    </div>
+
+    <h3>Non-Veg Food</h3>
+    <div class="gallery">
+        <div>
+            <img src="nonveg1.jpg" alt="Non Veg Food">
+            <p>Non-Veg Special</p>
+        </div>
+        <div>
+            <img src="nonveg2.jpg" alt="Non Veg Food">
+            <p>Non-Veg Combo Meal</p>
+        </div>
+    </div>
+
+</section>
+
+<footer>
+    <p>Thank You for Visiting Hotel Paradise</p>
+</footer>
+
+</body>
+</html>

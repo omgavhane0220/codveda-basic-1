@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact - Hotel Paradise</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Hotel Paradise</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="gallery.html">Gallery</a
+    <a href="contact.html">Contact</a>
+</nav>
+
+<section class="content">
+    <h2>Contact & Booking</h2>
+
+    <p><b>Address:</b> Near City Center, Main Road</p>
+    <p><b>Phone:</b> +91 9876543210</p>
+    <p><b>Email:</b> hotelparadise@gmail.com</p>
+
+    <h3>Book Room / Dining Table</h3>
+
+    <form onsubmit="showMessage(); return false;">
+        <label>Name:</label><br>
+        <input type="text"><br><br>
+
+        <label>Mobile Number:</label><br>
+        <input type="text"><br><br>
+
+        <label>Select Room:</label><br>
+        <select>
+            <option>AC Room</option>
+            <option>Non-AC Room</option>
+        </select><br><br>
+
+        <label>Select Dining:</label><br>
+        <select>
+            <option>Veg</option>
+            <option>Non-Veg</option>
+        </select><br><br>
+
+        <input type="submit" value="Book Now">
+    </form>
+</section>
+
+<footer>
+    <p>Thank You for Choosing Hotel Paradise</p>
+</footer>
+
+</body>
+<script>
+function showMessage() {
+    alert("Thank You for Choosing Hotel Paradise\nOur Agent will contact you soon");
+}
+</script>
+</html>
